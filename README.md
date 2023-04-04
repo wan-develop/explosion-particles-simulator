@@ -27,9 +27,7 @@ This game has no external dependencies, and it can be played on any modern web b
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
-## How to run and edit this code in StackBlitz
-### `fix the 404 not found error`
-> You should change the path manually from `/` container to `/src/index.html` in the container url
+## Run and edit this code in StackBlitz
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-htv6qc)
 
