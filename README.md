@@ -1,12 +1,14 @@
-# Explosion 
+# Explosion Particles Simulator
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-htv6qc)
+## 2D "Game" using JavaScript
 
-# 2D Game using HTML, CSS, and JavaScript
+This is a simple 2D game where the player stays in the center and enemies come to attack him. The player can shoot at the enemies to destroy them, and when an enemy is destroyed, an explosion particle is created. The game is built using HTML, CSS, and pure JavaScript, and it can be played in any modern web browser even in smartphone.
 
-This is a simple 2D game where the player stays in the center and enemies come to attack them. The player can shoot at the enemies to destroy them, and when an enemy is destroyed, an explosion particle is created. The game is built using HTML, CSS, and pure JavaScript, and it can be played in any modern web browser.
 
-![Game Screenshot](/images/game-screenshot.png)
+## Screenshots
+![Game Screenshot](/demo-images/explosion-particles-simulation-image.png)
+### Click or Touch the screen to shoot
+![Game Screenshot](/demo-images/explosion-particles-simulation-image2.png)
 
 ## How to Play
 
@@ -23,4 +25,11 @@ This game has no external dependencies, and it can be played on any modern web b
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+## How to run and edit this code in StackBlitz
+### `fix the 404 not found error`
+> You should change the path manually from `/` container to `/src/index.html` in the container url
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-htv6qc)
 
